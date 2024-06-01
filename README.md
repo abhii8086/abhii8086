@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align:right;">
-  <img src="https://imgs.search.brave.com/_8xeuHZ3V2LjHWCOrCmuFkOMvcF9ZaZDAvJHFKzzfDU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2NkL2Uw/L2FkL2NkZTBhZDU1/YWYzMzE2YTAyY2M0/Nzg3MjUwZWQ4ODI3/LmpwZw" alt="Profile Image" style="border-radius:50%; width:150px; height:150px; " />
+  <img src="https://imgs.search.brave.com/_8xeuHZ3V2LjHWCOrCmuFkOMvcF9ZaZDAvJHFKzzfDU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2NkL2Uw/L2FkL2NkZTBhZDU1/YWYzMzE2YTAyY2M0/Nzg3MjUwZWQ4ODI3/LmpwZw" alt="Profile Image" style="border-radius:50%; width:150px; height:150px;" />
 </div>
 
 <h1 align="center">
@@ -33,8 +33,8 @@
 <h2 align="center">Languages & Frameworks</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mongodb,java,c,github,javascript,nodejs" alt="Skills Icons"/><br>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,mysql,html,css,vscode,figma,git" alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,python,ai,c,cpp,javascript,nodejs,mongodb,mysql" alt="Skills Icons"/><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,html,css,vscode,figma,git,github" alt="Skills Icons"/>
 </div>
 
 <br/>

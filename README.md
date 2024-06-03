@@ -1,10 +1,10 @@
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+
 <div align="right">
   <a href="https://github.com/abhii8086" target="_blank" rel="noreferrer"> </a>
 </div>
 
-<div style="text-align:right;">
-  <img src="https://imgs.search.brave.com/_8xeuHZ3V2LjHWCOrCmuFkOMvcF9ZaZDAvJHFKzzfDU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2NkL2Uw/L2FkL2NkZTBhZDU1/YWYzMzE2YTAyY2M0/Nzg3MjUwZWQ4ODI3/LmpwZw" alt="Profile Image" style="border-radius:50%; width:150px; height:150px;" />
-</div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhijeet+Sharma!;Java+Developer;+Web+Developer!;" alt="Typing SVG" />

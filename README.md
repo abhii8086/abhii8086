@@ -11,26 +11,18 @@
 </h1>
 
 <br/>
-
 <div align="center">
-    <h2>Taglines</h2>
-    <blockquote>"Innovating with Every Line of Code"</blockquote>
-    <blockquote>"Empowering Technology Through Java"</blockquote>
-    <blockquote>"Crafting Reliable and Scalable Java Applications"</blockquote>
+    <em>"Innovating with Every Line of Code"</em>
+  <br>
+    <em>"Empowering Technology Through Java"</em>
+  <br>
+    <em>"Crafting Reliable and Scalable Java Applications"</em>
 </div>
 
-<div align="center"> 
-  <a href="mailto:sharmaabhi8086@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhi8086/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 <hr/>
 
-<h2 align="center">Languages & Frameworks</h2>
+<h2 align="center"><i>Languages & Frameworks</i></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,python,ai,c,cpp,javascript,nodejs,mongodb,mysql" alt="Skills Icons"/><br>
@@ -40,14 +32,16 @@
 <br/>
 <hr/>
 
-<h2 align="center">About Me</h2>
+<h2 align="center"><i>About Me</i></h2>
 <p align="center">
-    Passionate Java Developer with a knack for solving real-world problems through innovative technology solutions. Always eager to learn and explore new technologies, pushing the boundaries of what's possible.
+    Passionate Java Developer with a knack for solving real-world problems through innovative technology solutions.
+  <br>
+    Always eager to learn and explore new technologies, pushing the boundaries of what's possible.
 </p>
 
 <hr/>
 
-<h2 align="center">Projects</h2>
+<h2 align="center"><i>Projects</i></h2>
 <div align="center">
   <a href="https://github.com/abhii8086/project1" target="_blank">
     <img src="https://img.shields.io/badge/Project1-333333?style=for-the-badge&logo=github" alt="Project 1"/>
@@ -62,7 +56,7 @@
 
 <hr/>
 
-<h2 align="center">Get In Touch</h2>
+<h2 align="center"><i>Get In Touch</i></h2>
 <p align="center">
     Feel free to reach out for collaborations or just a friendly chat about technology!
 </p>
@@ -73,6 +67,11 @@
   <a href="https://www.linkedin.com/in/abhi8086/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a>
+<img src="https://img.shields.io/badge/X-3333333?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+    
+</a>
+  
 </div>
 
 <hr/>

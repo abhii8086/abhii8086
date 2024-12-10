@@ -46,7 +46,7 @@
   <a href="https://paralaxe.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Project1-333333?style=for-the-badge&logo=github" alt="Project 1"/>
   </a>
-  <a href="https://github.com/abhii8086/project2" target="_blank">
+  <a href="https://nikee-home-page.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Project2-333333?style=for-the-badge&logo=github" alt="Project 2"/>
   </a>
   <a href="https://github.com/abhii8086/project3" target="_blank">
